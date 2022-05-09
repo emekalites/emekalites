@@ -3,11 +3,14 @@
 ### How're you doing 😄
 
 
-## Tech Stack
-VueJs
-ReactJs
-NodeJs
-Laravel/Php
-Flutter/Dart
-React Native
-Python/Django (Mid Level)
+### Tech Stack
+ ```
+ - List item
+ - VueJs
+ - ReactJs
+ - NodeJs
+ - Laravel/Php
+ - Flutter/Dart
+ - React Native
+ - Python/Django (Mid Level)
+```
