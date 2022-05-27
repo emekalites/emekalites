@@ -5,7 +5,7 @@
 
 ### Tech Stack
  ```
- - List item
+ - HTML/CSS
  - VueJs
  - ReactJs
  - NodeJs
