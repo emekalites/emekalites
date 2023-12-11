@@ -2,7 +2,7 @@
 
 [![Github](https://img.shields.io/github/followers/emekalites?label=Follow&style=social)](https://github.com/emekalites)
 
-<img align="right" src="https://github.com/emekalites/emekalites/blob/master/me.png" alt="How're you doing" width=205px height=208px />
+<img align="right" src="https://github.com/emekalites/emekalites/blob/main/me.png" alt="How're you doing" width=205px height=208px />
 
 - I’m currently working on personal stuff as a Software Enginner
 
