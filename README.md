@@ -18,8 +18,9 @@
  - VueJs
  - ReactJs
  - NodeJs
- - Laravel/Php
+ - Laravel/PHP
  - Flutter/Dart
  - React Native
- - Python/Django (Mid Level)
+ - Python [Django/Flask]
+ - NestJs
 ```
